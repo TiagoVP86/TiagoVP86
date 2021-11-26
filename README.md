@@ -16,7 +16,7 @@
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Cursando superior em Tecnologia em DevOps.
+Cursando superior em Tecnologia em DevOps. Iniciando a carreira de programador. 
 
 ### E-mail para contato:
 - t.vp@hotmail.com
