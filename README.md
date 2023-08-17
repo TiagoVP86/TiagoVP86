@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tiago Vieira 🖐️
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-vieira-48b48b210/)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagovieirapires/)
 
 ![Tiago GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TiagoVP86&show_icons=true&theme=dracula)
 
@@ -19,7 +19,8 @@
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Formado em Tecnologia em DevOps | Pós-Graduado em Desenvolvimento Mobile.
+Formado em Tecnologia em DevOps.
+Pós-Graduado em Desenvolvimento Mobile.
 
 ### E-mail para contato:
 - t.vp@hotmail.com
