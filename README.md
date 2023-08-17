@@ -19,7 +19,7 @@
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Formado em Tecnologia em DevOps. Pós-Graduado em Desenvolvimento Mobile.
+Formado em Tecnologia em DevOps | Pós-Graduado em Desenvolvimento Mobile.
 
 ### E-mail para contato:
 - t.vp@hotmail.com
