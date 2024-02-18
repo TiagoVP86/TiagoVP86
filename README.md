@@ -6,11 +6,7 @@
 
 ## Tecnologias que uso no meu dia
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,bootstrap,react,angular,java,kotlin,swift,nodejs,git,mongodb,mysql " />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,bootstrap,react,angular,java,kotlin,swift,nodejs,git,mongodb,mysql)](https://skillicons.dev)
 
 Formado em Tecnologia em DevOps.
 Pós-Graduado em Desenvolvimento Mobile.
